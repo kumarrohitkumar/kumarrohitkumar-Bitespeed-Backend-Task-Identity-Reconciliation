@@ -4,12 +4,14 @@
 
 FluxKart.com wants to reward loyal customers and personalize their experience. However, some customers (like the brilliant Dr. Emmett Brown) use multiple emails and phone numbers for purchases. Your task is to design a backend system that reconciles these identities and returns a consolidated view.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- **Backend Framework**: Node.js with TypeScript
-- **Database**: PostgreSQL (Any SQL-based DB can be used)
-- **ORM**: Prisma
-- **Hosting**: Render
+- **Language:** TypeScript
+- **Runtime:** Node.js
+- **Framework:** Express.js
+- **ORM:** TypeORM
+- **Database:** PostgreSQL
+- **Dev Tools:** ts-node-dev, dotenv
 
 ## API Endpoints
 
